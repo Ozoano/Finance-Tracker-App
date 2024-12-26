@@ -1,0 +1,13 @@
+steps to use typescript in th server....
+
+1)
+npm install -g typescript
+tsc --init
+
+2) create a src and build folders
+src... for ts code input
+build.... for ts code output
+
+3) open tsconfig.json file...
+
+add both src and build in the rootDir and outDire paths
